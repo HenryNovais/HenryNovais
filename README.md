@@ -22,3 +22,6 @@ Levo comigo um lema que reflete minha atitude diante dos desafios:
 Essa é a mentalidade que me guia todos os dias no meu desenvolvimento pessoal e profissional.
 
 📫 Contato: henryncalmon05@gmail.com | [LinkedIn](www.linkedin.com/in/henry-novais-calmon-06422424b)
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300px"/>
+
