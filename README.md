@@ -1,4 +1,5 @@
-### 👋 Olá, eu sou Henry!
+### ![Rocket](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+ Olá, eu sou Henry!
 Sou estudante de Ciência da Computação (UFAL) e técnico em Informática para Internet (SENAI).
 
 - 🔭 Atualmente envolvido no projeto PET-Saúde UFAL (GAT 8)
@@ -24,7 +25,3 @@ Essa é a mentalidade que me guia todos os dias no meu desenvolvimento pessoal e
 📫 Contato: henryncalmon05@gmail.com | [LinkedIn](www.linkedin.com/in/henry-novais-calmon-06422424b)
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300px"/>
-![Rocket](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Oi%2C+eu+sou+Henry+Calmon!;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Dev+em+formação+%F0%9F%9A%80)](https://github.com/henrycalmon)
-
