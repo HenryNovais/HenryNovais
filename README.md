@@ -24,4 +24,6 @@ Essa é a mentalidade que me guia todos os dias no meu desenvolvimento pessoal e
 📫 Contato: henryncalmon05@gmail.com | [LinkedIn](https://www.linkedin.com/in/henry-novais-calmon-06422424b)
 )
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300px"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dracula&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
