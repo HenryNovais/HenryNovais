@@ -15,8 +15,7 @@ Sou estudante de Ciência da Computação (UFAL) e técnico em Informática para
 
 Sou desenvolvedor Web com experiência em HTML, CSS, JavaScript e Python, além de conhecimentos em testes automatizados com Cypress, bancos de dados MySQL e versionamento com Git. Trabalho com metodologias ágeis, como Scrum e Kanban, e atualmente estou aprofundando meus estudos em Java para ampliar minha atuação no back-end.
 
-Tenho uma grande paixão por tecnologia e estou sempre em busca de evolução. Me interesso especialmente pelas áreas de Inteligência Artificial e Cibersegurança, que considero essenciais para o futuro da computação.
-
+Tenho uma grande paixão por tecnologia e estou sempre em busca de evolução.
 Levo comigo um lema que reflete minha atitude diante dos desafios:
 "Se eu não souber algo hoje, me dê alguns dias… e eu aprendo."
 Essa é a mentalidade que me guia todos os dias no meu desenvolvimento pessoal e profissional.
